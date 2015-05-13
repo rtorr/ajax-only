@@ -1,5 +1,5 @@
-jQuery's ajax/xhr module only
+jQuery's ajax/xhr and deferred modules only
 
 `npm install @rtorr/ajax-only --save`
 
-`var ajax = require('@rtorr/ajax-only').ajax;`
+`var $ = require('@rtorr/ajax-only');`
