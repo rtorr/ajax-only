@@ -1,6 +1,6 @@
 {
-  "name": "ajax-only",
-  "version": "1.0.0",
+  "name": "@rtorr/ajax-only",
+  "version": "1.0.1",
   "description": "jQuery's ajax/xhr module only",
   "main": "index.js",
   "scripts": {
